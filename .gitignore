@@ -1,1 +1,6 @@
 Assignments/
+docker-compose.yml
+Dockerfile
+Spark.ipynb
+requirements.txt
+*checkpoint*
