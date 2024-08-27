@@ -1,0 +1,2 @@
+df.head (10) - first 10 sample data
+df.tail (10) - last 10 sample data
