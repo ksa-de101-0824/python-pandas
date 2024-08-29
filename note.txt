@@ -1,3 +1,11 @@
 df.head (10) - first 10 sample data
 df.tail (10) - last 10 sample data
 nak bukak skip pad - Ctrl + spacebar
+letak "\" untuk multiple line code
+benda yang kita define dulu akan sentiasa left, after kita define selepas, jadi right
+df.fillna('') - filna, kalau null isi value apa ''
+dropna - drop null - buat semua yang null
+data in parquet compressed data - takleh tengok visualize tapi lagi better for program
+- efficient data format
+- faster
+- jimat storage
